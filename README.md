@@ -127,5 +127,3 @@ Free to use. Do not redistribute or repackage.
 ---
 
 **Made with ❤️ by [Makan Ansari](https://x.com/MakanAnsariCG)**
-```
-
