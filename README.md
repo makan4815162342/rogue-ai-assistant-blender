@@ -5,7 +5,7 @@
 
 > AI-powered assistant + MCP server for Blender. Talk to your scene, let AI build it.
 
-![Claude sees your Blender scene via MCP]<img width="2560" height="1080" alt="Desktop Screenshot 2026 06 27 - 03 07 53 32" src="https://github.com/user-attachments/assets/b7b7835b-8181-47cc-9abd-ed652c25cd9c" />
+<img width="2560" height="1080" alt="Desktop Screenshot 2026 06 27 - 03 07 53 32" src="https://github.com/user-attachments/assets/b7b7835b-8181-47cc-9abd-ed652c25cd9c" />
 
 
 ## What is this?
@@ -21,9 +21,9 @@ No cloud uploads, no data leaving your computer. The AI runs on **your** hardwar
 - **OpenCode Zen** — Free models (DeepSeek V4 Flash), API key required
 - Or use cloud providers (OpenAI, Claude, Gemini, etc.)
 
-![Settings panel with 8 AI providers]<img width="2560" height="1080" alt="Desktop Screenshot 2026 06 24 - 03 22 18 30" src="https://github.com/user-attachments/assets/88849647-6b96-4f51-8a56-72f1002b0740" />
+<img width="2560" height="1080" alt="Desktop Screenshot 2026 06 24 - 03 22 18 30" src="https://github.com/user-attachments/assets/88849647-6b96-4f51-8a56-72f1002b0740" />
 
-![LM Studio running Gemma 4 locally]<img width="2560" height="1080" alt="Desktop Screenshot 2026 06 20 - 08 18 35 26" src="https://github.com/user-attachments/assets/a9c02feb-90bf-49f3-951d-d50d50c8e1af" />
+<img width="2560" height="1080" alt="Desktop Screenshot 2026 06 20 - 08 18 35 26" src="https://github.com/user-attachments/assets/a9c02feb-90bf-49f3-951d-d50d50c8e1af" />
 
 
 ## ✨ Features
@@ -41,7 +41,7 @@ No cloud uploads, no data leaving your computer. The AI runs on **your** hardwar
 - Works locally or via tunnel (ngrok/localtunnel) for remote access
 - 7 tools exposed: execute code, scene summary, selection info, run operators, object info, list addons, scene inspection
 
-![7 MCP tools in Claude.ai]<img width="2523" height="980" alt="Desktop Screenshot 2026 06 28 - 01 26 04 97" src="https://github.com/user-attachments/assets/df89dd86-01f5-47f2-bd42-bcd4ab2d811a" />
+<img width="2523" height="980" alt="Desktop Screenshot 2026 06 28 - 01 26 04 97" src="https://github.com/user-attachments/assets/df89dd86-01f5-47f2-bd42-bcd4ab2d811a" />
 
 
 ### 🌐 Multi-Provider Support
@@ -70,9 +70,9 @@ The AI can do **everything** in Blender:
 - **Rendering:** Cycles/Eevee settings, lights, camera
 - **Import/Export:** FBX, OBJ, glTF 2.0, USD, Alembic, STL
 
-![AI building a detailed tree with Geometry Nodes]<img width="2560" height="1080" alt="Desktop Screenshot 2026 06 24 - 07 45 06 32" src="https://github.com/user-attachments/assets/e077c3fe-c89e-4340-8920-6741dfbed3a2" />
+<img width="2560" height="1080" alt="Desktop Screenshot 2026 06 24 - 07 45 06 32" src="https://github.com/user-attachments/assets/e077c3fe-c89e-4340-8920-6741dfbed3a2" />
 
-![Low-poly terrain created by AI]<img width="2560" height="1080" alt="Desktop Screenshot 2026 06 18 - 04 09 20 35" src="https://github.com/user-attachments/assets/8f3da140-7907-4604-be3d-bf3d62111789" />
+<img width="2560" height="1080" alt="Desktop Screenshot 2026 06 18 - 04 09 20 35" src="https://github.com/user-attachments/assets/8f3da140-7907-4604-be3d-bf3d62111789" />
 
 
 ### 🛡️ Other Features
@@ -96,7 +96,7 @@ The AI can do **everything** in Blender:
    - **Cloud:** Paste your API key for OpenAI/Claude/Gemini
 6. Switch to Chat tab → start talking!
 
-![Chat panel — AI building compositor nodes]<img width="2560" height="1080" alt="Desktop Screenshot 2026 06 26 - 06 17 09 46" src="https://github.com/user-attachments/assets/631969c5-20b9-405d-a271-8944b201e1d6" />
+<img width="2560" height="1080" alt="Desktop Screenshot 2026 06 26 - 06 17 09 46" src="https://github.com/user-attachments/assets/631969c5-20b9-405d-a271-8944b201e1d6" />
 
 
 ## 🌐 Connecting Claude / Cursor via MCP
