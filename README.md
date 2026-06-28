@@ -21,6 +21,8 @@ No cloud uploads, no data leaving your computer. The AI runs on **your** hardwar
 - **OpenCode Zen** — Free models (DeepSeek V4 Flash), API key required
 - Or use cloud providers (OpenAI, Claude, Gemini, etc.)
 
+<img width="2560" height="1080" alt="Desktop Screenshot 2026 06 20 - 07 29 56 29" src="https://github.com/user-attachments/assets/599b0f52-aadb-4902-8950-5faaa9ca62c9" />
+
 <img width="2560" height="1080" alt="Desktop Screenshot 2026 06 24 - 03 22 18 30" src="https://github.com/user-attachments/assets/88849647-6b96-4f51-8a56-72f1002b0740" />
 
 <img width="2560" height="1080" alt="Desktop Screenshot 2026 06 20 - 08 18 35 26" src="https://github.com/user-attachments/assets/a9c02feb-90bf-49f3-951d-d50d50c8e1af" />
