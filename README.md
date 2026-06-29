@@ -5,8 +5,7 @@
 
 > AI-powered assistant + MCP server for Blender. Talk to your scene, let AI build it.
 
-<img width="2560" height="1080" alt="Desktop Screenshot 2026 06 27 - 03 07 53 32" src="https://github.com/user-attachments/assets/b7b7835b-8181-47cc-9abd-ed652c25cd9c" />
-
+<img width="2517" height="995" alt="Desktop Screenshot 2026 06 27 - 03 07 53 32" src="https://github.com/user-attachments/assets/0bd09bc6-a11a-4f25-a953-fca9bf65d47f" />
 
 ## What is this?
 
